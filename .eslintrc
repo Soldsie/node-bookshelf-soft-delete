@@ -25,7 +25,6 @@
     "no-eq-null": 2,
     "no-eval": 2,
     "no-unused-expressions": 2,
-    "global-strict": [2, "always"],
     "no-iterator": 2,
     "no-loop-func": 2,
     "no-multi-str": 2,
@@ -37,7 +36,7 @@
     "no-shadow": 2,
     "dot-notation": 2,
     "no-underscore-dangle": 2,
-    "space-after-keywords": [2, "always", { "checkFunctionKeyword": true } ]
+    "strict": [2, "global"]
   },
 
   "env": {
